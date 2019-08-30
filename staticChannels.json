@@ -5,7 +5,7 @@
 		"channel_name": "ECUAVISA",
 		"country": "EC",
 		"img": "http://www.rapifutbol.tv/javax.faces.resource/dynamiccontent.properties.jsf;jsessionid=9k5sesV+-DyoXJIDcDjqruEZ.undefined?ln=primefaces&pfdrid=H6AojLbKHXAw5VxJc9SUY69uDesOzTvP&pfdrt=sc&id=1014&pfdrid_c=true",
-		"link_to_play':"http://173.212.247.99/hls/tvec2.m3u8"
+		"link_to_play":"http://173.212.247.99/hls/tvec2.m3u8"
     },
 	{
 		"cat_id": "1",
