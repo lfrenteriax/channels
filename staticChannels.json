@@ -97,11 +97,3 @@
 		'link_to_play':" http://194.67.220.30/hls/103.m3u8"
     }
 ]
-
-def getChannels():
-	return allChannels;
-def getSreamLink(url):
-	return url
-
-
-
