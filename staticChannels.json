@@ -1,5 +1,6 @@
  [
     {
+		'id'='1',
 		'cat_id': "1",
 		'cat_name': "Entertainment",
 		'channel_name': "ECUAVISA",
@@ -8,6 +9,7 @@
 		'link_to_play':"http://173.212.247.99/hls/tvec2.m3u8"
     },
 	{
+		'id'='2',
 		'cat_id': "1",
 		'cat_name': "Entertainment",
 		'channel_name': "TC",
@@ -17,6 +19,7 @@
     },
 	
 	{
+		'id'='3',
 		'cat_id': "1",
 		'cat_name': "Entertainment",
 		'channel_name': "ECOTEL",
@@ -25,6 +28,7 @@
 		'link_to_play':" http://192.99.56.185/ecotel/live.m3u8"
     },
 	{
+		'id'='4',
 		'cat_id': "1",
 		'cat_name': "Entertainment",
 		'channel_name': "EDUCA TV",
@@ -33,6 +37,7 @@
 		'link_to_play':"http://www.educa.andinanet.net:1935/cnt/educa2018.smil/chunklist_w386430930_b1300000.m3u8"
     },
 	{
+		'id'='5',
 		'cat_id': "1",
 		'cat_name': "Entertainment",
 		'channel_name': "NANO TV",
@@ -41,6 +46,7 @@
 		'link_to_play':" https://59c3c7bda15f4.streamlock.net:444/tvn/smil:tvn.smil/chunklist_w1945336621_b500000_sleng.m3u8"
     },
 	{
+		'id'='6',
 		'cat_id': "1",
 		'cat_name': "Entertainment",
 		'channel_name': "Radio Italia TV",
@@ -49,6 +55,7 @@
 		'link_to_play':" https://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_384x256_av-p.m3u8?sd=10&rebase=on"
     },
 	{
+		'id'='7',
 		'cat_id': "1",
 		'cat_name': "Entertainment",
 		'channel_name': "USFQ",
@@ -57,6 +64,7 @@
 		'link_to_play':" http://ecuastreamhd.com:1935/UCSGHQ/UCSGHQ/chunklist_w209317991.m3u8"
     },
 	{
+		'id'='8',
 		'cat_id': "1",
 		'cat_name': "Entertainment",
 		'channel_name': "TVN",
@@ -65,6 +73,7 @@
 		'link_to_play':" http://ss8.domint.net:2080/mno_str/minano/chunklist_w606832559.m3u8"
     },
 	{
+		'id'='9',
 		'cat_id': "1",
 		'cat_name': "Entertainment",
 		'channel_name': "RTS GYE",
@@ -73,6 +82,7 @@
 		'link_to_play':"https://ec-rts-guayaquil-live.ned.media/rts/smil:guayaquil.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTY3MDUxNjMwLCJzZXNzaW9uIjoiMTkwLjk1LjIxOS4xNTgiLCJ3aGl0ZWxpc3QiOlsiMTkwLjk1LjIxOS4xNTgiXX0sInNpZ25hdHVyZSI6ImYwYWQ3M2I3NDY4NWMxMmIxZWEwYjhiYjRhY2JlODFiNjBjMjYzOTcifQ%3D%3D"
     },
 	{
+		'id'='10',
 		'cat_id': "1",
 		'cat_name': "Entertainment",
 		'channel_name': "ECUADOR TV",
@@ -81,6 +91,7 @@
 		'link_to_play':"https://playback2.akamaized.net/streams/27228685_8710465_lsibop9x1f5oyq0jqzu_1/master.m3u8?dw=14400&hdnts=exp=1566968724~acl=/streams/27228685_8710465_lsibop9x1f5oyq0jqzu_1/master.m3u8*~hmac=4de4937c02d5bb0e3b42375937677967c9c9ef91081b84631095d2dbca2c7b9e"
     },
 	{
+		'id'='11',
 		'cat_id': "1",
 		'cat_name': "Entertainment",
 		'channel_name': "RTS UIO",
@@ -89,6 +100,7 @@
 		'link_to_play':"https://ec-rts-guayaquil-live.ned.media/rts/smil:guayaquil.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTY3MDUxNjMwLCJzZXNzaW9uIjoiMTkwLjk1LjIxOS4xNTgiLCJ3aGl0ZWxpc3QiOlsiMTkwLjk1LjIxOS4xNTgiXX0sInNpZ25hdHVyZSI6ImYwYWQ3M2I3NDY4NWMxMmIxZWEwYjhiYjRhY2JlODFiNjBjMjYzOTcifQ%3D%3D"
     },
 	{
+		'id'='12',
 		'cat_id': "5",
 		'cat_name': "Sports",
 		'channel_name': "Gol TV",
