@@ -112,7 +112,7 @@
 		'id'='13',
 		'cat_id': "1",
 		'cat_name': "Entertainment",
-		'channel_name': "TC MI CANAL",
+		'channel_name': "TC HD",
 		'country': "EC",
 		'img': "http://www.rapifutbol.tv/javax.faces.resource/dynamiccontent.properties.jsf;jsessionid=9k5sesV+-DyoXJIDcDjqruEZ.undefined?ln=primefaces&pfdrid=H6AojLbKHXAw5VxJc9SUY69uDesOzTvP&pfdrt=sc&id=1018&pfdrid_c=true",
 		'link_to_play':"https://5c21f7ec1999d.streamlock.net:443/8054/8054/chunklist_w434001254.m3u8"
