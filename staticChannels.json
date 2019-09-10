@@ -103,10 +103,37 @@
 		'id'='12',
 		'cat_id': "5",
 		'cat_name': "Sports",
-		'channel_name': "ECU-PER",
-		'country': "US",
-		'img': "http://www.rapifutbol.tv/javax.faces.resource/dynamiccontent.properties.jsf?ln=primefaces&pfdrid=H6AojLbKHXAw5VxJc9SUY69uDesOzTvP&pfdrt=sc&id=1230&pfdrid_c=false&uid=2710e6dd-c6e2-4e8e-a4f5-8710224a8017",
-		'link_to_play':" http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/chunklist_w1951453762.m3u8"
+		'channel_name': "ESPN",
+		'country': "AR",
+		'img': "http://www.rapifutbol.tv/javax.faces.resource/dynamiccontent.properties.jsf;jsessionid=gRdr4xEdqo9AZS9T07pktdqO.undefined?ln=primefaces&pfdrid=H6AojLbKHXAw5VxJc9SUY69uDesOzTvP&pfdrt=sc&id=730&pfdrid_c=true",
+		'link_to_play':"http://linearhlsls2-i.akamaihd.net:80/hls/live/463004/n53/1200.m3u8"
+    },
+	{
+		'id'='13',
+		'cat_id': "1",
+		'cat_name': "Entertainment",
+		'channel_name': "TC MI CANAL",
+		'country': "EC",
+		'img': "http://www.rapifutbol.tv/javax.faces.resource/dynamiccontent.properties.jsf;jsessionid=9k5sesV+-DyoXJIDcDjqruEZ.undefined?ln=primefaces&pfdrid=H6AojLbKHXAw5VxJc9SUY69uDesOzTvP&pfdrt=sc&id=1018&pfdrid_c=true",
+		'link_to_play':"https://5c21f7ec1999d.streamlock.net:443/8054/8054/chunklist_w434001254.m3u8"
+    },
+	{
+		'id'='14',
+		'cat_id': "5",
+		'cat_name': "Sports",
+		'channel_name': "ESPN 2",
+		'country': "AR",
+		'img': "http://www.rapifutbol.tv/javax.faces.resource/dynamiccontent.properties.jsf;jsessionid=gRdr4xEdqo9AZS9T07pktdqO.undefined?ln=primefaces&pfdrid=H6AojLbKHXAw5VxJc9SUY69uDesOzTvP&pfdrt=sc&id=732&pfdrid_c=true",
+		'link_to_play':"https://linearhlsls2-i.akamaihd.net/hls/live/463004/n17/1200.m3u8"
+    },
+	{
+		'id'='15',
+		'cat_id': "5",
+		'cat_name': "Sports",
+		'channel_name': "ESPN 3",
+		'country': "AR",
+		'img': "http://www.rapifutbol.tv/javax.faces.resource/dynamiccontent.properties.jsf;jsessionid=gRdr4xEdqo9AZS9T07pktdqO.undefined?ln=primefaces&pfdrid=H6AojLbKHXAw5VxJc9SUY69uDesOzTvP&pfdrt=sc&id=734&pfdrid_c=true",
+		'link_to_play':"https://linearhlsls2-i.akamaihd.net:443/hls/live/463004/n417/1200.m3u8"
     }
 ]
 
