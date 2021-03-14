@@ -4316,3 +4316,6 @@ https://5d8b8e0ea0b59.streamlock.net/estudio-tv/estudio-tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FbMaclw.png" group-title="Bolivia", Bolivia TV 7.2| SD 
 http://btvboliviat987.srfms.com:1935/btvboliviat987/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FbMaclw.png" group-title="BOCA-RIVER", BOCA-RIVER
+http://cdn89.sportsbay.site:2052/live-2/297/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNC8yMDIxIDg6MDU6MzQgUE0maGFzaF92YWx1ZT1HejFWa0pUUmNrbGEvVkhyRHRuRzlRPT0mdmFsaWRtaW51dGVzPTEyMCZzdHJtX2xlbj0xMA==
