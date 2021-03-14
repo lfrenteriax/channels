@@ -1,7 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FbMaclw.png" group-title="BOCA RIVER", BOCA RIVER
 http://cdn89.sportsbay.site:2052/live-2/297/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNC8yMDIxIDg6MDU6MzQgUE0maGFzaF92YWx1ZT1HejFWa0pUUmNrbGEvVkhyRHRuRzlRPT0mdmFsaWRtaW51dGVzPTEyMCZzdHJtX2xlbj0xMA==
-© 2021 GitHub, Inc.
 #EXTINF:0,aztecauno
 https://tvliveapp-proxy.herokuapp.com/?ch=aptv3&fnc=/
 #EXTINF:0,eldos
