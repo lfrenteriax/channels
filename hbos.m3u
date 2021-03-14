@@ -4187,135 +4187,81 @@ https://i.imgur.com/KuqaZul.mp4
 
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/E8cJyLw.jpg" group-title="Radios K-Pop & J-Pop", Akari Radio (Ecuador)
 https://node-26.zeno.fm/0t952vqukfeuv?rj-ttl=5&rj-tok=AAABdotyp9AAJfddmGW35WrTxQ
-
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/UBhqIXm.jpg" group-title="Radios K-Pop & J-Pop", Akihabara Radio (Chile)
 https://azura11.instainternet.com/radio/8020/radio.mp3
-
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/L2Z4mbh.png" group-title="Radios K-Pop & J-Pop", Anime Nexus (México)
 http://radio.animenexus.mx:8000/animenexus
-
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/i5NmdMc.png" group-title="Radios K-Pop & J-Pop", Magic Kids  (Argentina)
 http://142.44.135.172:8197/;stream.nsv
-
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/zW3CA4Y.png" group-title="Radios K-Pop & J-Pop", Radio Anime (México)
 https://radioanime.radioca.st/stream
-
-
-
-
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/ycUlCyR.png" group-title="Radios Internacionales", -[COLOR cyan]Radios Internacionales[/COLOR]-
 https://i.imgur.com/kISRdyL.mp4
-
-
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/75FDrud.png" group-title="Radios Internacionales", Radio Sputnik | Rusia
 https://nfw.ria.ru/flv/audio.aspx?ID=58982499&type=mp3
-
-
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/Ov6LR8j.png" group-title="Radios Internacionales", Vatican News | Ciudad del Vaticano
 https://rvl.azureedge.net/channel5.mp3
-
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/ixDZ4so.jpg" group-title="Radios Internacionales", BBC Radio 1 | Reino Unido
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1_mf_p
-
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/wBHu87o.jpg" group-title="Radios Internacionales", BBC Radio 2 | Reino Unido
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio2_mf_p
-
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/Ihi0JPu.jpg" group-title="Radios Internacionales", BBC Radio 3 | Reino Unido
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio3_mf_p
-
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/kqLHWAQ.jpg" group-title="Radios Internacionales", BBC Radio 4 Extra | Reino Unido
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/llnw/bbc_radio_fourfm.m3u8
-
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/yM6Fdqs.png" group-title="Radios Internacionales", BBC Radio 5 Live| Reino Unido
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio5live_mf_p
-
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/8WC734J.png" group-title="Radios Internacionales", Capital FM | Reino Unido
 http://vis.media-ice.musicradio.com/CapitalUKMP3
-
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/7u0D7GU.png" group-title="Radios Internacionales", Clásica y Barroca | Buenos Aires | Argentina
 http://200.110.145.2:8087/stream
-
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/q5FoPnB.jpg" group-title="Radios Internacionales", Marítima 100.9 | Bolivia
 http://72.29.90.201:9595/stream/1/
-
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/nztQaQG.png" group-title="Radios Internacionales", Exitosa 95.5 | Perú
 http://167.114.118.120:7444/;
-
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/fCQeJKX.png" group-title="Radios Internacionales", FM O Dia 100.5 | Brasil
 http://c2901-slbps-sambavideos.akamaized.net/radio/FMoDiaAudio_14d480346fa04ebcb4f03173f2dae707/livestream/chunklist_w1559633248.m3u8
-
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/5Tf6dsa.png" group-title="Radios Internacionales", Heart | Reino Unido 
 http://vis.media-ice.musicradio.com/HeartUKMP3
-
-
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/mcDPnz9.jpg" group-title="Radios Internacionales", LBC 97.3 FM | Reino Unido
 http://media-ice.musicradio.com/LBCUKMP3Low
-
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/imL2P4c.jpg" group-title="Radios Internacionales", LBC London News 1152 AM | Reino Unido
 http://media-ice.musicradio.com/LBC1152MP3Low
-
-
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/4NvtTYp.png" group-title="Radios Internacionales", Los 40 | Colombia
 https://18723.live.streamtheworld.com/LOS40_COLOMBIAAAC_SC
-
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/jpFoozY.png" group-title="Radios Internacionales", Lu6 Radio Atlántica AM | Mar del Plata | Argentina
 http://173.255.205.241:9090/;
-
-
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/XbptMyc.png" group-title="Radios Internacionales", Nashville FM Country| Holanda
 https://nashvillefm.stream-server.nl:8300/stream
-
-
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/HbV9HoX.png" group-title="Radios Internacionales", Norte | Bahía Blanca | Argentina
 http://icecast.hostingbahia.com.ar:8002/live?28344
-
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/9rTXN18.png" group-title="Radios Internacionales", Radio Disney | México
 http://14993.live.streamtheworld.com/XHPOPFM_SC
-
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/9rTXN18.png" group-title="Radios Internacionales", Radio Disney | Perú
 http://173.192.105.252:8000/stream?type=http&nocache=19
-
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/71kcIC0.png" group-title="Radios Internacionales", Radio Francia Internacional en español | Francia
 http://live02.rfi.fr/rfienespagnol-64.mp3
-
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/LaG8trk.png" group-title="Radios Internacionales", Rock FM | Rumania 
 https://live.rockfm.ro/rockfm.aacp
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4QHSIyW.png" group-title="Adultos", -[COLOR cyan]Adultos Soft[/COLOR]-
 https://i.imgur.com/KuqaZul.mp4
-
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vTv1ysB.png" group-title="Adultos", Fashion Bikini TV | HD |
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b1400000_t64NDgwcA==.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mR1I8hE.png" group-title="Adultos", A3Bikini TV | HD |
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4BLxN00.png" group-title="Adultos", Miami Tv México| HD | México
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4BLxN00.png" group-title="Adultos", Miami Tv Colombia| HD | Colombia
 https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w1665315595_b2592000.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4BLxN00.png" group-title="Adultos", Jenny Live | HD | USA
 https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cI80Wzz.png" group-title="Adultos", Jasmin TV| HD | Bosnia- Herzegobina
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dN5By0n.png" group-title="Papelera", -[COLOR cyan]Papelera[/COLOR]-
 https://i.imgur.com/KuqaZul.mp4
-
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aa353xY.png" group-title="Chile", Estudio Televisión | SD | La Ligua
 https://5d8b8e0ea0b59.streamlock.net/estudio-tv/estudio-tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FbMaclw.png" group-title="Bolivia", Bolivia TV 7.2| SD 
 http://btvboliviat987.srfms.com:1935/btvboliviat987/livestream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FbMaclw.png" group-title="BOCA-RIVER", BOCA-RIVER
 http://cdn89.sportsbay.site:2052/live-2/297/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNC8yMDIxIDg6MDU6MzQgUE0maGFzaF92YWx1ZT1HejFWa0pUUmNrbGEvVkhyRHRuRzlRPT0mdmFsaWRtaW51dGVzPTEyMCZzdHJtX2xlbj0xMA==
