@@ -7,7 +7,7 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a5672e42dc3e53209f321f093e98d210:a0834fba85b36882afaa6eb742b12122 
 https://dtvott-cbc.akamaized.net/dash_live_1092/manifest.mpd
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://futboltvhd.live/img/logo-canal/DSports_2.png?up",DSports 2
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://futboltvhd.live/img/logo-canal/DSports_2.png?up",DSports 22
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
