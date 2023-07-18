@@ -1420,3 +1420,15 @@ http://tv.teleclub.xyz/envivo/24_7/TERROR_247/index.m3u8
 http://tv.teleclub.xyz/envivo/24_7/LOONEYTOONS_247/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24_7", Teoría del Big Bang 
 http://tv.teleclub.xyz/envivo/24_7/BIGBANG_247/index.m3u8
+#EXTINF:-1 ,ESPN
+http://181.78.8.90:16123/play/ch16
+#EXTINF:-1 ,ESPN2
+http://181.78.8.90:16123/play/ch17
+#EXTINF:-1 ,ESPN3
+http://181.78.8.90:16123/play/ch18
+#EXTINF:-1 ,ESPN4
+http://181.78.8.90:16123/play/ch19
+#EXTINF:-1 ,FOX SPORTS 2
+http://181.78.8.90:16123/play/ch20
+#EXTINF:-1 ,FOX SPORTS 3
+http://181.78.8.90:16123/play/ch21
